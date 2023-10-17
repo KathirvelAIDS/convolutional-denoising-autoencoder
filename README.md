@@ -29,8 +29,8 @@ create the model for the program , in this experiment we create to networks , on
 
 ## PROGRAM
 ~~~
-NAME:V.A.JITHENDRA
-REG.NO:212221230043
+NAME:KATHIRVEL.A
+REG.NO:212221230047
 
 ~~~
 ~~~
